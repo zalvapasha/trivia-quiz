@@ -1,0 +1,86 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+    "correct_answer": "Mortal Kombat",
+    "incorrect_answers": ["Duke Nukem", "Resident Evil", "Doom"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?",
+    "correct_answer": "Sheik",
+    "incorrect_answers": ["Samus", "Lucas", "Mega Man"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "&quot;Half-Life 2&quot; runs on the Source Engine.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+    "correct_answer": "World War II",
+    "incorrect_answers": ["World War I", "Vietnam War", "Iraq War"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
+    "correct_answer": "Clarence &quot;Razor&quot; Callahan",
+    "incorrect_answers": [
+      "Hector &quot;Ming&quot; Domingo",
+      "Toru &quot;Bull&quot; Sato",
+      "Karl &quot;Baron&quot; Smit"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": ["Apple", "Google", "Yahoo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In what year was the first &quot;Mass Effect&quot; game released?",
+    "correct_answer": "2007",
+    "incorrect_answers": ["2008", "2009", "2010"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Who is the creator of Touhou project?",
+    "correct_answer": "Zun",
+    "incorrect_answers": ["Jun", "Twilight Frontier", "Tasofro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Pok&eacute;mon Go is a location-based augmented reality game developed and published by which company?",
+    "correct_answer": "Niantic",
+    "incorrect_answers": ["Rovio", "Zynga", "Supercell"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+    "correct_answer": "5",
+    "incorrect_answers": ["4", "3", "6"]
+  }
+]
